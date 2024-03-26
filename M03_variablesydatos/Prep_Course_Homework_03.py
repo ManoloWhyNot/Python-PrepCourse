@@ -6,8 +6,8 @@
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
 # In[7]:
-
-
+var_entero=5
+print(var_entero)
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
